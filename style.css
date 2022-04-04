@@ -97,7 +97,9 @@ img {
   #steps .row>.left,
 #steps .row>.central,
 #steps .row>.right{
-  float: left;
   width: 100%;
 }
 }
+
+
+/* ULTIMA SEZIONE-----  */
